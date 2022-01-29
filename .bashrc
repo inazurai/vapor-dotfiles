@@ -1,0 +1,1 @@
+/home/inazurai/dotfiles/.bashrc

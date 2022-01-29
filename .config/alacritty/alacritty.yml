@@ -1,0 +1,38 @@
+env:
+  TERM: alacritty
+  LANG: en_US.UTF-8
+  LC_CTYPE: en_US.UTF-8
+font:
+  normal:
+    family: iosevka
+    style: Curly
+  size: 11
+  use_thin_strokes: true
+colors:
+  # Default colors
+  primary:
+    background: '#401234'
+    foreground: '#04D9B2'
+
+  # Normal colors
+  normal:
+    black: '#2e3436'
+    red: '#cc0000'
+    green: '#4e9a06'
+    yellow: '#c4a000'
+    blue: '#3465a4'
+    magenta: '#75507b'
+    cyan: '#06989a'
+    white: '#d3d7cf'
+
+  # Bright colors
+  bright:
+    black: '#555753'
+    red: '#ef2929'
+    green: '#8ae234'
+    yellow: '#fce94f'
+    blue: '#729fcf'
+    magenta: '#ad7fa8'
+    cyan: '#34e2e2'
+    white: '#eeeeec'
+theme: Ubuntu
