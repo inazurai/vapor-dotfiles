@@ -1,6 +1,6 @@
 # .bashrc
 
-# If not running interactively, don't do anythinf
+# If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
