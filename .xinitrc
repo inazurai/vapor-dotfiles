@@ -1,1 +1,7 @@
-/home/inazurai/dotfiles/.xinitrc
+#!/bin/sh
+#
+# ~/.xinitrc
+#
+# Executed by startx
+
+exec i3
