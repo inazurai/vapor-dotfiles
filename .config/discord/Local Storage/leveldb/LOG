@@ -1,5 +1,0 @@
-2022/01/28-22:45:53.318 807 Creating DB /home/inazurai/.config/discord/Local Storage/leveldb since it was missing.
-2022/01/28-22:45:53.322 807 Reusing MANIFEST /home/inazurai/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/01/28-22:47:21.513 804 Level-0 table #5: started
-2022/01/28-22:47:21.530 804 Level-0 table #5: 164279 bytes OK
-2022/01/28-22:47:21.532 804 Delete type=0 #3
